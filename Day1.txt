@@ -1,0 +1,41 @@
+Ex : 1
+
+docker ps 
+
+docker run nginx
+
+press Ctrl + C
+
+docker ps -a 
+
+docker rm -f <container id> 
+
+docker ps 
+
+docker ps -a 
+
+----------------------------------------------------------------------------------
+
+Ex : 2
+
+docker run -p 80:80 nginx 
+
+press Ctrl + C
+
+docker run -p 80:80 nginx 
+
+docker ps 
+
+docker ps -a 
+
+docker rm -f <container id> 
+
+use --name some-nginx to name the container 
+
+
+---------------------------------------------------------------------------------
+
+Ex : 3 
+
+
+
