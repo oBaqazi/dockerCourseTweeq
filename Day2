@@ -1,0 +1,2 @@
+
+docker run --link some-mysql:db -p 8080:8080 adminer
