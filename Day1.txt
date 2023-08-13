@@ -2,6 +2,8 @@ Ex : 1
 
 docker ps 
 
+docker ps -a
+
 docker run nginx
 
 press Ctrl + C
