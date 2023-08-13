@@ -1,0 +1,11 @@
+ping : https://medium.com/@devtonight/how-to-fix-bash-ping-command-not-found-in-ubuntu-docker-containers-41c5bf57c69a
+
+nginx : https://www.dailysmarty.com/posts/steps-for-deploying-a-static-html-site-with-docker-and-nginx
+
+
+docker run --name mattermost-preview -d --publish 8065:8065 mattermost/mattermost-preview
+
+docker run -p 8080:8080 shopizerecomm/shopizer:latest
+
+
+--rm 
