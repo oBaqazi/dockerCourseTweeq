@@ -37,5 +37,8 @@ use --name some-nginx to name the container
 
 Ex : 3 
 
+docker run --name some-mysql -e MYSQL_ROOT_PASSWORD=root -d mysql
+
+docker run --link some_database:db -p 8080:8080 adminer
 
 
