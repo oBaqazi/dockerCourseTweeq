@@ -1,8 +1,11 @@
 docker pull adminer
 docker pull mysql
 docker pull mysql:5.7
-docker pull redis
 
+
+
+docker run adminer 
+docker run redis 
 
 
 
