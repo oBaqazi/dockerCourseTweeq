@@ -3,6 +3,8 @@ docker pull mysql
 docker pull mysql:5.7
 
 
+https://discord.com/login?redirect_to=%2Foauth2%2Fauthorize%3Fclient_id%3D1109742830261391440%26scope%3Didentify%2520email%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fdiscord.tuwaiqadmin.com%252Fapi%252Fauth%252Fcallback%252Fdiscord%26state%3DhxO7a0ovOypN536voaj4dyP9Ovv0Zad0Q6-dPKfE5iU
+
 
 docker run adminer 
 docker run redis 
