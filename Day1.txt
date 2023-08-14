@@ -1,3 +1,13 @@
+docker pull adminer
+docker pull mysql
+docker pull mysql:5.7
+docker pull redis
+
+
+
+
+
+
 Ex : 1
 
 docker ps 
