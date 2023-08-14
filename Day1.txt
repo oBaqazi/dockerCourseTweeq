@@ -1,3 +1,6 @@
+https://discord.tuwaiqadmin.com/invite/cllb0im7d001npf2335e7nkt8
+
+
 docker run -v C:\Users\devel\OneDrive\Desktop\mysqlV:/var/lib/mysql --name some-mysql -e MYSQL_ROOT_PASSWORD=root -d mysql
 
 
