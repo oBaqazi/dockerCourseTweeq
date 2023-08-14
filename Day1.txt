@@ -1,3 +1,6 @@
+docker run -v C:\Users\devel\OneDrive\Desktop\mysqlV:/var/lib/mysql --name some-mysql -e MYSQL_ROOT_PASSWORD=root -d mysql
+
+
 docker pull adminer
 docker pull mysql
 docker pull mysql:5.7
