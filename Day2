@@ -1,2 +1,11 @@
 
-docker run --link some-mysql:db -p 8080:8080 adminer
+docker network create -d bridge my-bridge-network
+
+apt-get install iputils-ping
+
+docker run --rm -d --network host --name my_nginx nginx
+
+
+ volumes:
+      - ./target:/usr/share/nginx/html
+
