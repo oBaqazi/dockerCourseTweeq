@@ -7,5 +7,7 @@ docker run --name mattermost-preview -d --publish 8065:8065 mattermost/mattermos
 
 docker run -p 8080:8080 shopizerecomm/shopizer:latest
 
+ volumes:
+      - ./target:/usr/share/nginx/html
 
 --rm 
