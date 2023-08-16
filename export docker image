@@ -1,0 +1,4 @@
+docker save -o <path for generated tar file> <image name>
+
+
+docker load -i <path to image tar file>
